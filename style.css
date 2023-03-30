@@ -1,0 +1,28 @@
+
+.main{
+    
+    width: 500px;
+    margin: 200px auto 0px;
+}
+.got{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+.main span{
+    font-size: 70px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+#next{
+    width: 400px;
+    margin:5px auto;
+    
+}
+
+#next span {
+    font-size: 30px;
+     
+     display: inline-block;
+     padding: 0px 5px ;
+}
